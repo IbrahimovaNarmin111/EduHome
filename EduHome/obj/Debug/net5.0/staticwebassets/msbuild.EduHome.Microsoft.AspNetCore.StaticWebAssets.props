@@ -2816,6 +2816,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\slider\355995e0-dbae-48e4-9d23-70ed7c4d866bsunset_and_evening_1_of_1_552791.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\slider\640d1b8d-d7d1-4c32-8cac-f554598aab13sunset_and_evening_1_of_1_552791.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>EduHome</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EduHome</BasePath>
+      <RelativePath>img\slider\640d1b8d-d7d1-4c32-8cac-f554598aab13sunset_and_evening_1_of_1_552791.jpg</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\slider\640d1b8d-d7d1-4c32-8cac-f554598aab13sunset_and_evening_1_of_1_552791.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\slider\6af12780-21e0-47a9-8534-d492885a1ec0blog-feature-img-4.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>EduHome</SourceId>
